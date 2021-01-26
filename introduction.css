@@ -1,0 +1,22 @@
+@charset "utf-8";
+body {
+ text-align:left;
+ background-image: url("backgrounds.jpg"); 
+ background-size: cover;
+}
+h1 {
+ font-size: 30pt;
+}
+.ziko {
+ color: blue
+}
+.contents {
+ font-size: 17pt;
+ margin-bottom: 0.5em;
+}
+.Sentence {
+ font-size: 13pt;
+ margin-bottom: 2em;
+ margin-left: 20px;
+}
+
